@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5AC5F5C3-61BA-D234-E8BB-E1A9237C6B12}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RoundManager.cs" Line="9" Column="7" />
+      <File FileName="Assets/Scripts/Player.cs" Line="6" Column="14" />
+      <File FileName="Assets/PlayerManager.cs" Line="40" Column="84" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cameEnBarre" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="PlayerManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7089f4f8-2408-40d5-b62c-39f69ce610dc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

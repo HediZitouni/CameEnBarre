@@ -27,8 +27,14 @@ public class RoundManager : MonoBehaviour
         displayRound();
     }
 
+    public void previousRound()
+    {
+        round--;
+        displayRound();
+    }
+
     public void displayRound()
     {
-        textRoundNumber.text = "Round : " + round.ToString();
+        textRoundNumber.text = "Rounds : " + round.ToString();
     }
 }
