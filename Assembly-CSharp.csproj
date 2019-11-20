@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\PlayerManager.cs" />
      <Compile Include="Assets\Scripts\RoundManager.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/hedi/cameEnBarre/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
